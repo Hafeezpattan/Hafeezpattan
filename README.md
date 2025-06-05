@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on web applications, AI-driven projects, and any interesting open-source initiatives. If you have a project that needs a passionate developer or need someone to brainstorm with, hit me up
 - 📫 How to reach me Email: hafeezpattan7@gmail.com
 
+Languages/Systems/Tools
+React CSS3 HTML5 Bootstrap redis redis JavaScript C++ C TypeScript MongoDB Express.js Sass Git Git Gatsby Firebase Node.js jQuery Redux redis postman redis mysql 
 <!---
 Hafeezpattan/Hafeezpattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
